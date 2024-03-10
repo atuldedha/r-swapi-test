@@ -1,0 +1,1 @@
+export const UPDATE_PLANET_INFO = "UPDATE_PLANET_INFO";
